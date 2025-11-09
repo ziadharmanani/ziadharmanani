@@ -1,5 +1,14 @@
 ## Hi there 👋
 Master’s student in Human-Centered Data Science at the University of Toronto.   
+Most of my repositories reflect ongoing or completed projects related to academic and professional work. 
+
+### 🛠 Skills & Tools
+- **Languages:** Python, R, SQL
+- **Data Analysis:** pandas, NumPy, tidyverse, ggplot2  
+- **Visualization:** Tableau, Matplotlib, Seaborn  
+- **Reporting & Automation:** Excel (Power Query), Jupyter, R Markdown  
+- **Version Control:** Git & GitHub
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
