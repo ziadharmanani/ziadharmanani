@@ -1,6 +1,7 @@
-## Hi there 👋
-Master’s student in Human-Centered Data Science at the University of Toronto.   
-Most of my repositories reflect ongoing or completed projects related to academic and professional work. 
+# Hi there 👋
+
+### 🧠 About Me
+Master’s student in Human-Centered Data Science at the University of Toronto.
 
 ### 🛠 Skills & Tools
 - **Languages:** Python, R, SQL
@@ -8,14 +9,7 @@ Most of my repositories reflect ongoing or completed projects related to academi
 - **Visualization:** Tableau, Matplotlib, Seaborn  
 - **Reporting & Automation:** Excel (Power Query), Jupyter, R Markdown  
 - **Version Control:** Git & GitHub
-  
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Get in Touch
+- **LinkedIn:** [linkedin.com/in/ziadharmanani](https://linkedin.com/in/ziadharmanani)  
+- **Email:** ziad.harmanani@mail.utoronto.ca
