@@ -1,15 +1,13 @@
 # Hi there, I'm Ziad 👋
-I'm a Master’s student in Data Science at the University of Toronto, focusing on credit risk modelling and time-series forecasting. I enjoy the engineering challenge of building end-to-end pipelines—turning messy datasets into clean, reliable insights ready for predictive modeling. Currently, I'm exploring the intersection of traditional econometrics and machine learning to see how they can work together to improve forecast accuracy.
+I am a Master's student in Data Science at the University of Toronto. I focus on credit risk modelling, time-series forecasting, and financial data analysis. I enjoy the engineering challenge of building end-to-end ML pipelines, turning messy raw datasets into clean, reliable pipelines ready for predictive modeling. Currently, I am exploring the intersection of traditional econometrics and deep learning (LSTMs/RNNs) to improve forecast accuracy. Most of my repositories reflect independent analyses, academic coursework, and end-to-end engineering projects related to my Master's studies.
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-185EAC?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+My core interests include: Credit Risk Modelling, Time-Series Forecasting, Financial Econometrics, Neural Networks, and Deep Learning.
 
-## Get in Touch
-- LinkedIn: [linkedin.com/in/ziadharmanani](https://linkedin.com/in/ziadharmanani)
-- Email: ziad.harmanani@mail.utoronto.ca
+## 💻 Featured Projects
+- Financial Fraud Detection: Building an end-to-end ML pipeline for highly imbalanced transaction data using strict split-before-encoding discipline, an Optuna-tuned LightGBM model, and cost-matrix thresholding for business-aligned predictions.
+- Bank of Canada Econometric Analysis: Analyzing central bank policy rate regimes (1960–2025) using a modular Python architecture to identify inflation-targeting shifts and yield curve dynamics.
+- Urban Mobility Forecasting: Processing 4m+ rows of messy bikeshare data into a robust time-series pipeline using engineered lag features, rolling statistics, and cyclical calendar encodings.
+
+## 📫 Get in Touch
+- 💼 LinkedIn: [linkedin.com/in/ziadharmanani](https://linkedin.com/in/ziadharmanani)
+- 📧 Email: ziad.harmanani@mail.utoronto.ca
